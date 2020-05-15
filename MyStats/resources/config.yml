@@ -96,7 +96,7 @@ mainFormat:
   - '&3You are playing on &b%level'
   - '&3Kills: %kills'
   - '&3Deaths: %deaths'
-
+  - '&3Money: %money
 # Format for command /stats (/mystats)
 cmdFormat:
   - '&5--- == &6[&eMyStats&6] &5== ---'
